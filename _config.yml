@@ -1,3 +1,19 @@
+
+# Site metadata
+# ---------------------
+
+title: WAVE Festival
+
+author:
+  name: WAVE Festival
+  email: tbd@tbd.tbd
+
+description: >
+  Women Amplify the Voice of Electroacoustic (WAVE) Music Festival
+
+# Build settings
+# ---------------------
+
 theme: minima
 
 plugins:
