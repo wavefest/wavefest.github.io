@@ -24,6 +24,9 @@ minima:
   skin: solarized-light
 
   nav_pages:
+    - index.md
     - call.md
     - contact.md
-  
+
+  social_links:
+
