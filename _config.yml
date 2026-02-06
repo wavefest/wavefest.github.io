@@ -14,7 +14,7 @@ description: >
 # Build settings
 # ---------------------
 
-remote_theme: jekyll/minima@d4d779a
+remote_theme: jekyll/minima@bf9ef98
 
 plugins:
   - jekyll-feed
