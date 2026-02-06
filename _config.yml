@@ -14,7 +14,7 @@ description: >
 # Build settings
 # ---------------------
 
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@d4d779a
 
 plugins:
   - jekyll-feed
@@ -22,4 +22,8 @@ plugins:
 
 minima:
   skin: solarized-light
+
+  nav_pages:
+    - call.md
+    - contact.md
   
