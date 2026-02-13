@@ -20,13 +20,15 @@ If you have any questions, please email us at: [wavefestsound@gmail.com](mailto:
 
 3. Fixed media with video or video art works are accepted. Please note that we will not accept documentation of live performances.
 
-4. Please do not attach your submissions to the email, itself. Instead please submit links to your files via Google Drive, Dropbox, Vimeo, YouTube, or other file sharing service.
+4. Please do not attach your submissions to the email itself. Instead please submit links to your files via Google Drive, Dropbox, Vimeo, Baidu, YouTube, or other file sharing service.
 
 5. Both audio and video works must be submitted in compressed formats.
 
-6. All media files should be anonymous. Please make sure to remove markings in the file, the file's meta data, or links that you've shared. Works that are not properly anonymized will not be reviewed. 7. To submit this call, email the submission form to wavefestsound@gmail.com with the subject "WAVE Fest Submission 2026".
+6. All media files should be anonymous. Please make sure to remove markings in the file, the file's meta data, or links that you've shared. Works that are not properly anonymized will not be reviewed.
 
-8. Attendance to the festival is encouraged but not required.
+7. To submit this call, email the submission form to [wavefestsound@gmail.com](mailto:wavefestsound@gmail.com) with the subject "WAVE Fest Submission 2026".
+
+8. Attendance at the festival is encouraged but not required.
 
 9. Submission fee: none.
 

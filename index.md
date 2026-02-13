@@ -4,8 +4,6 @@ title: About
 permalink: /
 ---
 
-What this festival is.
-
 # Staff
 
 ## Director: Li Tao
