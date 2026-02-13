@@ -6,7 +6,7 @@ title: WAVE Festival
 
 author:
   name: WAVE Festival
-  email: tbd@tbd.tbd
+  email: wavefestsound@gmail.com
 
 description: >
   Women Amplify the Voice of Electroacoustic (WAVE) Music Festival
@@ -29,4 +29,6 @@ minima:
     - contact.md
 
   social_links:
+
+  hide_site_feed_link: true
 
