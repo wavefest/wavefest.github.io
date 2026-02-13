@@ -1,21 +1,43 @@
 ---
 layout: page
-title: About
+title: Call For Works
 permalink: /
 ---
 
-# Staff
+The Women Amplify the Voice of Electroacoustic (WAVE) Music Festival is excited to announce a call for works for its inaugural festival on May 9, 2026 at the University of Oregon.
 
-## Director: Li Tao
+WAVE Festival is an electroacoustic music festival founded to showcase the creative and brilliant contributions of women to the field. In celebration of Asian American and Pacific Islander Heritage Month (May), the theme of this year's festival is the diversity of Asian, Asian American and Pacific Islander cultures. All women composers and multimedia artists from Asia or the Pacific Islands, or those of Asian or Pacific Islander heritage, regardless of age or place of residence are invited to submit their works to this call.
 
-<img markdown="0" src="{{ site.baseurl }}/img/Tao.png" width=210 class="bio-img"/>
+Submissions will go through a double-blind review. In the review process, preference will be given to works with durations of 7 minutes or less, as well as works written within the last 5 years.
 
-Award winning composer Li Tao 李陶 was born and raised in Beijing, China and currently based in the U.S. working on her second Doctoral degree in Data-Driven Music Performance & Composition at the University of Oregon. The philosophy, literature, and spirituality of the ancient East play a formative role in the aesthetic of Tao's work. Her music consists of vivid soundscapes, colorful timbres, and interdisciplinary elements that often lead her audiences on a multi-dimensional journey full of imagination. As an Asian female musician, Tao is devoted to promoting gender equity and cultural diversity through her music as well as through collaboration with other artists.
+If you have any questions, please email us at: [wavefestsound@gmail.com](mailto:wavefestsound@gmail.com)
 
-Tao's music has been performed at concerts and music festivals throughout the world including China, Japan, Korea, Australia, Ireland, Belgium, Ukraine, Brazil, and the U.S.A. Her primary interests include acoustic and electroacoustic composition, performance practices, and analysis of compositional techniques, aesthetics, and intercultural dialogues. For more information, please go to taolimusic.com.
+# Submission Guideline:
 
-## Assistant Director: Oliver Kwapis
+1. Please download and fill out the submission form [[word]({{ site.baseurl }}/WAVEFestSubmissionForm.docx),[pdf]({{ site.baseurl }}/WAVEFestSubmissionForm.pdf){:target="_blank"}].
 
-<img markdown="0" src="{{ site.baseurl }}/img/Oliver.jpg" width=300 class="bio-img"/>
+2. Only fixed media pieces (up to 8 channels) are accepted due to the format of the festival. Multichannel works must be submitted as high-quality stereo mixes.
 
-Oliver Kwapis (b. 1997) is a composer and performer of electroacoustic music. His work has been featured at conferences and festivals including ICMC, NIME, NYCEMF, NSEME, and MISE-EN FESTIVAL, Fresh Inc Festival, June in Buffalo, the Mostly Modern Festival Institute, and the soundSCAPE Composition and Performer Exchange. Currently, he is pursuing a PhD in Data-Driven Music Performance and Composition at the University of Oregon’s School of Music and Dance under the tutelage of Jeffrey Stolet, where he is also a Graduate Employee in the Department of Intermedia Music Technology.
+3. Fixed media with video or video art works are accepted. Please note that we will not accept documentation of live performances.
+
+4. Please do not attach your submissions to the email itself. Instead please submit links to your files via Google Drive, Dropbox, Vimeo, Baidu, YouTube, or other file sharing service.
+
+5. Both audio and video works must be submitted in compressed formats.
+
+6. All media files should be anonymous. Please make sure to remove markings in the file, the file's meta data, or links that you've shared. Works that are not properly anonymized will not be reviewed.
+
+7. To submit this call, email the submission form to [wavefestsound@gmail.com](mailto:wavefestsound@gmail.com) with the subject "WAVE Fest Submission 2026".
+
+8. Attendance at the festival is encouraged but not required.
+
+9. Submission fee: none.
+
+10. One submission per person.
+
+# Submission Timeline:
+
+The deadline for receipt of materials is 11:59pm on March 20, 2026 AoE.
+
+Anticipated notification date: April 20, 2026.
+
+Concert date: May 9, 2026.
