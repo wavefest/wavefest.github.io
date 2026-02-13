@@ -14,7 +14,7 @@ If you have any questions, please email us at: [wavefestsound@gmail.com](mailto:
 
 # Submission Guideline:
 
-1. Please download and fill out the submission form.
+1. Please download and fill out the submission form [[word]({{ site.baseurl }}/WAVEFestSubmissionForm.docx),[pdf]({{ site.baseurl }}/WAVEFestSubmissionForm.pdf){:target="_blank"}].
 
 2. Only fixed media pieces (up to 8 channels) are accepted due to the format of the festival. Multichannel works must be submitted as high-quality stereo mixes.
 
