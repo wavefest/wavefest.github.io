@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-Will be ...
+If you have questions, please contact: [wavefestsound@gmail.com](mailto:wavefestsound@gmail.com).
