@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
+The Women Amplify the Voice of Electroacoustic music (WAVE) festival is the first women-focused electroacoustic music festival. The festival's mission is to support, showcase, and celebrate women in electronic music and art disciplines.  As a key underrepresented group in this genre's history of predominantly male, European contributions, this festival provides a unique opportunity and a central stage to showcase the creativity and brilliance of women's contributions.
+This year's festival is partially sponsored by SEAMUS Micro CREATE Grant and University of Oregon School of Music and Dance CEI Mini Grant. 
+
 # Staff
 
 ## Director: Li Tao
