@@ -36,7 +36,7 @@ If you have any questions, please email us at: [wavefestsound@gmail.com](mailto:
 
 # Submission Timeline:
 
-The deadline for receipt of materials is 11:59pm on March 20, 2026 AoE.
+The deadline for receipt of materials is 11:59pm on ~~March 20~~ March 27, 2026 AoE.
 
 Anticipated notification date: April 20, 2026.
 
