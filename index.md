@@ -4,6 +4,8 @@ title: Call For Works
 permalink: /
 ---
 
+<span style="color:red;" markdown=0><b>Thank you for all your support and submissions! The call is now closed. Please stay tuned for the result.</b></span>
+
 The Women Amplify the Voice of Electroacoustic (WAVE) Music Festival is excited to announce a call for works for its inaugural festival on May 9, 2026 at the University of Oregon.
 
 WAVE Festival is an electroacoustic music festival founded to showcase the creative and brilliant contributions of women to the field. In celebration of Asian American and Pacific Islander Heritage Month (May), the theme of this year's festival is the diversity of Asian, Asian American and Pacific Islander cultures. All women composers and multimedia artists from Asia or the Pacific Islands, or those of Asian or Pacific Islander heritage, regardless of age or place of residence are invited to submit their works to this call.
