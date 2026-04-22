@@ -26,6 +26,7 @@ minima:
   nav_pages:
     - about.md
     - index.md
+    - selections.md
     - contact.md
 
   social_links:

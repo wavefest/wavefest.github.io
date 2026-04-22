@@ -4,7 +4,7 @@ title: Call For Works
 permalink: /
 ---
 
-<span style="color:red;" markdown=0><b>Thank you for all your support and submissions! The call is now closed. Please stay tuned for the result.</b></span>
+<span style="color:red;font-size:18pt;" markdown=0><b>Thank you for all your support and submissions! The call is now closed and selections have been made. <a href="/selections/">Please see here for the announcement.</a></b></span>
 
 The Women Amplify the Voice of Electroacoustic (WAVE) Music Festival is excited to announce a call for works for its inaugural festival on May 9, 2026 at the University of Oregon.
 
