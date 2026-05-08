@@ -24,8 +24,8 @@ minima:
   skin: solarized-light
 
   nav_pages:
-    - about.md
     - index.md
+    - call.md
     - selections.md
     - events.md
     - contact.md
