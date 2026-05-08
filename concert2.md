@@ -37,11 +37,11 @@ Thelma Schnitzer Hall
 
 ### Jiayue Cecilia Wu
 
-For Tashi is a synesthetic audiovisual work by two female artists (the composer and the visual artist) that traces the physical and emotional journey of miscarriage—an experience that remains deeply personal, often unspoken, and widely overlooked. Created in loving memory of the composer’s miscarried baby, Tashi, the piece transforms private grief into a shared, communal encounter.
+_For Tashi_ is a synesthetic audiovisual work by two female artists (the composer and the visual artist) that traces the physical and emotional journey of miscarriage—an experience that remains deeply personal, often unspoken, and widely overlooked. Created in loving memory of the composer’s miscarried baby, Tashi, the piece transforms private grief into a shared, communal encounter.
 
 Through a fusion of electronic sound, Tibetan soundscapes, human voice, and the ancient Asian instrument Konghou (箜篌), the work unfolds as an evolving sonic narrative of loss, rupture, and gradual acceptance. Using Short-Time Fourier Transform (STFT) and audio spectrum analysis, the piece dynamically visualizes sound in real time: shapes and movements respond directly to frequency, timbre, and energy, creating a synesthetic interplay between hearing and sight.
 
-Globally, 10–20% of recognized pregnancies end in miscarriage, often accompanied by grief comparable in intensity to other major losses, and sometimes leading to anxiety, depression, or PTSD. Yet this experience is frequently silenced, leaving many women to grieve in isolation. For Tashi seeks to break this silence by offering a space for recognition, resonance, and collective witnessing.
+Globally, 10–20% of recognized pregnancies end in miscarriage, often accompanied by grief comparable in intensity to other major losses, and sometimes leading to anxiety, depression, or PTSD. Yet this experience is frequently silenced, leaving many women to grieve in isolation. _For Tashi_ seeks to break this silence by offering a space for recognition, resonance, and collective witnessing.
 
 Balancing technological precision with emotional depth, the work invites audiences into a multisensory field of vulnerability, memory, and healing. It honors the enduring presence of loss while opening pathways toward connection, empathy, and embodied understanding.
 
@@ -155,7 +155,7 @@ Our emotions, thoughts, love, and loneliness may be known to no one, yet they ar
 
 **Mengmeng Wang**
 
-Mengmeng Wang, DMA, is a composer whose works have had her pieces performed all around the world at events including ACO Earshot Reading, the MATA festival, the SEAMUS 2021 Digital Conference, the concert of Chicago Composer’s Consortium: Experimental Sound Studio, June in Buffalo, the Atlantic Center of the Arts, Ithaca NY, Glasgow UK, and the Beijing Modern Music Festival. She was chosen as a residency composer by MacDowell, Ragdale Foundation and Atlantic Center of the Arts. Her music was awarded the 2022 Petrichor International Music Competition the Third Prize and an Honor Award at the 1st eARTS Digital Audio Competition etc. She has had the privilege of working with a number of ensembles and performers, including Naples Philharmonic, Shanghai Opera
+Mengmeng Wang, DMA, is a composer whose works have had her pieces performed all around the world at events including ACO Earshot Reading, the MATA festival, the SEAMUS 2021 Digital Conference, the concert of Chicago Composer’s Consortium: Experimental Sound Studio, June in Buffalo, the Atlantic Center of the Arts, Ithaca NY, Glasgow UK, and the Beijing Modern Music Festival. She was chosen as a residency composer by MacDowell, Ragdale Foundation and Atlantic Center of the Arts. Her music was awarded the 2022 Petrichor International Music Competition the Third Prize and an Honor Award at the 1st eARTS Digital Audio Competition etc. She has had the privilege of working with a number of ensembles and performers, including Naples Philharmonic, Shanghai Opera Symphony Orchestra, Ensemble Dal Niente, International Contemporary Ensemble.
 
 ## _Mangluo Fantasia---<br/>A Requiem for the Dulong Poet Li Lingao_ (2025)
 
