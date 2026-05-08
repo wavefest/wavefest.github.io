@@ -32,7 +32,7 @@ Thelma Schnitzer Hall
 
 <div class="prog-note" markdown=1>
 
-## Coming and Vanishing (2026)
+## _Coming and Vanishing_ (2026)
 
 ### ZHAO Yixuan
 
@@ -62,7 +62,7 @@ Shuangqi's creations include “Disembodied Zone,” “Flesh Surrogate,” “T
 
 WANG Pinyu is a bamboo flute performer and graduate student at the Central Conservatory of Music. Recipient of the highest award (Wenhua Award) in the Hong Kong, Macau, and Taiwan category at the 7th National Youth Traditional Instrumental Music Education and Teaching Achievement Exhibition. In 2022, published the Hulusi original music collection Lusheng Love. Named “Ethnic Music Star” in the Professional Youth A Group at the inaugural “National Rhyme Cup” Xiao Competition.
 
-## Train of Thoughts (2017)
+## _Train of Thoughts_ (2017)
 
 ### Kyong Mee Choi
 
@@ -72,7 +72,7 @@ _Train of Thoughts_ is based on the experience of sitting on a train and having 
 
 Kyong Mee Choi, composer, organist, painter, poet, and visual artist, received several prestigious awards and grants, including John Simon Guggenheim Memorial Foundation Fellowship, Robert Helps Prize, Aaron Copland Award, John Donald Robb Musical Trust Fund Commission, Illinois Arts Council Fellowship, First prize of ASCAP/SEAMUS Award, Second prize at VI Concurso Internacional de Música Eletroacústica de São Paulo among others. Her music was published at Ablaze, CIMESP (São Paulo, Brazil), SCI, EMS, ERM media, SEAMUS, and Détonants Voyages (Studio Forum, France). She is the Director of Music Composition at Roosevelt University in Chicago, where she teaches composition. Samples of her works are available at http://www.kyongmeechoi.com. 
 
-## Sound Legacy (传响) — For Electronic Music (2025)
+## _Sound Legacy (传响) — For Electronic Music_ (2025)
 
 ### Yuan Zhou
 
@@ -82,7 +82,7 @@ This work explores the fusion of traditional folk music and contemporary electro
 
 Yuan Zhou is an associate professor and master’s supervisor, currently serving as the head of the Electronic Music Department at the Contemporary Music Department of Xi’an Conservatory of Music. She received her master’s degree in electronic music composition from the Shanghai Conservatory of Music in 2009. Her work Colored Glaze won the Grand Prize at the 35th Bourges International Electroacoustic Music Competition in 2008.
 
-## Dust Storm (2025)
+## _Dust Storm_ (2025)
 
 ### Zouning Anne Liao
 
@@ -92,7 +92,7 @@ This fixed media composition is inspired by the chaotic energy and fine particul
 
 Zouning Anne Liao is a composer, sound designer, and multimedia artist from Guangdong, China. Her music reflects her fascination with natural phenomena, cycles of life, the materiality of sound, and the evolving relationship between humans, technology, and the environment. Her works have been showcased at international festivals such as IRCAM ManiFeste & Forum Workshop (France), Sound/Image Festival (UK), ICMC, Espacios Sonoros (Argentina), SEAMUS (USA), among other international venues. She holds a master’s degree in Computer Music Composition from Indiana University. Now based in Chicago, Zouning is in her second year of a PhD program in Music Composition and Technology at Northwestern University.
 
-## Openings (2022)
+## _Openings_ (2022)
 
 ### Liann J. Kang
 
@@ -102,7 +102,7 @@ Like in drawings, a sound material not only exists in the moment but sometimes h
 
 Born in Seoul, South Korea, Liann J. Kang is a composer and vocalist who writes music that brings out imagery and sensory responses that can be stimulated uniquely through the time-based auditory experience of music, inspired by her experience of synesthesia. Kang is interested in the vulnerable, fragile, fleeting, and intangible qualities of “in between” feelings and emotions, manifesting from transitory phenomena such as nostalgia and foreignness. She pays close attention to the qualities of everyday sounds around us, especially their influence as familiar objects to shape listeners’ perception of space—its physical, acoustical, and imaginary aspects. Kang has been awarded a 2026 MacDowell Fellowship, 2025 Tanglewood Music Center Composition Fellowship, 2025 ICMC Best Student Music Award, First Prize of the 2024 Sweetwater/SEAMUS Commission Award, and 2024 Kate Neal Kinley Memorial Fellowship. Her works have featured internationally at events and conferences including SEAMUS, MA/IN Festival, EMM, NYCEMF, ICMC, CHIMEFest at University of Chicago, Sound Spaces in Malmö, Sweden. Her primary teachers have included Philippe Hurel, Yan Maresz, João Pedro Oliveira, Eli Fieldsteel, and has previously had masterclasses led by Kaija Saariaho and John Harbison. Currently, Kang is a doctoral candidate in composition-theory at the University of Illinois at Urbana-Champaign.
 
-## Biska (2024)
+## _Biska_ (2024)
 
 ### Luyao Tian
 
@@ -116,7 +116,7 @@ This work is not only a tribute to a cultural heritage but also a search for a u
 
 Luyao Tian is currently pursuing an M.A. in Computer Music Composition at the Wuhan Conservatory of Music, studying under Associate Professor Jian Feng. Her research interests span computer music composition and real-time interactive systems, spatial audio and immersive auditory experience design, the integration of electronic music with traditional Chinese musical elements, and music AI with algorithmic composition. Her compositions have been recognized with awards both in China and abroad. She was awarded the second prize in the Original Music Song Composition Category of the University Music Creation Competition (Central China Region) in 2025. Her work Avoiding Shadows and Concealing Oneself was awarded the Golden Bell Award in the Instrumental Works Category at the 2023 Hubei Music Golden Bell Award Competition.
 
-## The Vanishing Realm (2025)
+## _The Vanishing Realm_ (2025)
 
 ### Feihong Yu
 
@@ -132,7 +132,7 @@ Feihong Yu is pursuing her master’s degree in Classical Voice and Computer Mus
 
 Feihong previously earned her bachelor’s degree in classical voice from the Manhattan School of Music. As a performer, she has sung leading roles in operas throughout Italy and Germany and appeared in concerts across New York City and her hometown of Dalian, China. In addition to her performance and compositional pursuits, she has extensive experience in music production, having worked as an audio technician specializing in recording, mixing, and mastering.
 
-## A Poem for Little Things (2025)
+## _A Poem for Little Things_ (2025)
 
 ### Chung Eun Kim
 
@@ -142,7 +142,7 @@ This piece was originally composed while raising twin babies under the age of tw
 
 Chung Eun Kim is a graduate of the PhD in Composition at Rutgers University. Dr. Kim also holds degrees from the New England Conservatory in Boston and Ewha Womans University in Seoul, Korea. Her doctoral thesis dealt with musical silence in the works of Cage, Takemitsu and Sciarrino. As a composer, her musical background and interest come from both Western and non-Western traditions, often drawing on elements of jazz and pop. Her music has been performed by the Flux String Quartet, Freya String Quartet, Beo String Quartet, New Contemporary Performance Group, Englewinds, S.E.M. ensemble, Contemporary Music Society in Seoul, The Korean Society of Women Composers, and Daegue MBC Symphony Orchestra, and at events such as ICMC, SICMF, NSEME, NYCEMF, Bowling Green State University Conference in Music, Le Poisson Rouge, New Music on the Point, Carnegie Halls’ Weill Recital Hall, Dynamic Festival, Upbeat Festival, and Charlotte New Music Festival.
 
-## The Throat of the Earth (2026)
+## _The Throat of the Earth_ (2026)
 
 ### Ye Peng
 
@@ -152,7 +152,7 @@ This work recreates a complete Mongolian shamanic ritual through electronic musi
 
 Master’s candidate in Computer Music and Composition. Class of 2025 Wuhan Conservatory of Music supervised by Prof. Xia Sunhuimei. She is a member of the Electronic Music Society of the Chinese Musicians’ Association. Peng’s main research interests include electronic music composition, creation of electronic music with visual imagery, and audiovisual interactive creation using TouchDesigner. Her creative works cover acousmatic electronic music, mixed electronic music, new media electronic music, and other related genres.
 
-## Solitary Temple I (2025)
+## _Solitary Temple I_ (2025)
 
 ### Yiting Shao
 
@@ -162,7 +162,7 @@ A misty landscape of rain, forest, moss, and a solitary temple forms the poetic 
 
 YiTing Shao, born in Hebei, China, in 2000, Received a bachelor’s degree in Violin Performance from Communications University of Zhejiang in China, and completed a Master's degree in Composition at Dankook University in Korea. Currently pursuing a Doctorate in Electro-acoustic and Instrumental Composition at Hanyang University. Her work was presented at the 2025 International Computer Music Conference (ICMC) in Boston 2025.
 
-## Luminous Hush (2024)
+## _Luminous Hush_ (2024)
 
 ### Sunhuimei Xia
 
