@@ -4,7 +4,7 @@ title: Festival Selections
 permalink: /selections/
 ---
 
-We are excited to announce the following selection of works for the inaugural WAVE Festival on May 9, 2026 at the University of Oregon:
+We are excited to announce the following selection of works for [the inaugural WAVE Festival on May 9, 2026 at the University of Oregon:](/events/)
 
 **Name (listed in alphabetical order)** -- **Title**
 
