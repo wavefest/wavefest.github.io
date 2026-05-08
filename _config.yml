@@ -27,6 +27,7 @@ minima:
     - about.md
     - index.md
     - selections.md
+    - events.md
     - contact.md
 
   social_links:

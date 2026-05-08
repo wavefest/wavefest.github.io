@@ -10,12 +10,19 @@
   .site-nav {
     width: 100%;
   }
+
+  .nav-items .nav-item {
+    text-align: center;
+  }
+
 }
 
 .nav-items {
   display: flex;
   justify-content: space-between;
+  font-size:20pt;
 }
+
 
 .bio-img {
     float: right;
